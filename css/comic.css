@@ -7,7 +7,7 @@ body {
   font-size: 15px;
   color: red;
   padding-top: 20px;
-  background-color: #400A45;
+  background-color: #000000;
 }
 
 .panel {
@@ -83,11 +83,11 @@ a {
 }
 
 .jumbotron a {
-  color: #560E5C;
+  color: #E70303;
 }
 
 .jumbotron a:visited {
-  color: #560E5C;
+  color: #E70303;
 }
 
 

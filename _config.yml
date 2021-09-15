@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Uploaded Fairy
-tab_title: A Four Frame Novel #This text shows up on the browser tab
+title: OS RSGLBT SAKUN
+tab_title: A Four Frame Collection #This text shows up on the browser tab
 email:
-description: In a world where French-America and Japanese-America locked in civil war, an apprentice executioner torn between love and justice. We explore what led up to the civil unrest, to the aftermath eighty years in the future when America speaks Fraponic.
+description: An alternative index for Robosexuals
 url: "https://lwflouisa.github.io/RSGLBTIndex" # the base hostname & protocol for your site
 
 # Comic Social Media

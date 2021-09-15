@@ -7,7 +7,7 @@ permalink: /about
 
 # About the Comic
 
-Uploaded Fairy is a four frame novel about an apprentice executioner torn between love and justice, and a gamer girl in danger of repeating the same desires.
+This is an alternative index for invisible orientations unrelated to LGBT and its woke undercurrent.
 
 {% include socialmedia.html %}
 

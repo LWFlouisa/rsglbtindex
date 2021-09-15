@@ -3,9 +3,7 @@ layout: default
 title: About
 permalink: /index.html
 ---
-# Welcome to RSGLBT Index
-
-![image](https://raw.githubusercontent.com/LWFlouisa/RedSerpentPolitics/main/images/robosexuality2.jpeg)
+# Welcome to RSGLBT
 
 This is an alternative index for invisible orientations unrelated to LGBT and its woke undercurrent. Woketivism has created a lot of myths about LGBT issues, and this index seeks to clarify things.
 

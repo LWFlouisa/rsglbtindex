@@ -3,8 +3,8 @@ layout: default
 title: About
 permalink: /index.html
 ---
-# Welcome to Uploaded Fairy
+# Welcome to RSGLBT Index
 
-![Cover](https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/scaledcover.png)
+![image](https://raw.githubusercontent.com/LWFlouisa/RedSerpentPolitics/main/images/robosexuality2.jpeg)
 
-Welcome to my new Webcomic website.
+Welcome to my index.

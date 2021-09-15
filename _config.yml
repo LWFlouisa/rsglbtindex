@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OS RSGLBT SAKUN
+title: RSGLBT Index
 tab_title: A Four Frame Collection #This text shows up on the browser tab
 email:
 description: An alternative index for Robosexuals

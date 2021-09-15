@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about
 ---
-![image](https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/sewnonhead.jpg)
+![image](https://raw.githubusercontent.com/LWFlouisa/RedSerpentPolitics/main/images/robosexuality2.jpeg)
 
 # About the Comic
 

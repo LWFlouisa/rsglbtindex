@@ -7,4 +7,6 @@ permalink: /index.html
 
 ![image](https://raw.githubusercontent.com/LWFlouisa/RedSerpentPolitics/main/images/robosexuality2.jpeg)
 
-Welcome to my index.
+This is an alternative index for invisible orientations unrelated to LGBT and its woke undercurrent. Woketivism has created a lot of myths about LGBT issues, and this index seeks to clarify things.
+
+It also makes the distinction between orientation and gender, along with orientation and fetish.

@@ -1,0 +1,226 @@
+﻿https://lingojam.com/edit/d1eac113cc6e4fa75dc141dd86efbc7e
+
+
+###name, Name of your translator...:
+Hafestran Converter
+
+
+###subtitle, Subtitle (optional):
+
+
+
+###language1, Language1 name...:
+Proto-Hafestran
+
+
+###language2, Language2 name...:
+Hafestran
+
+
+###description, Description...:
+Converts French and Japanese loan words into Hafestran.
+
+
+###email, Admin email (optional)...:
+lwflouisa@gmail.com
+
+
+###phrases1, Proto-Hafestran list...:
+sumi-bistre
+
+
+###phrases2, Hafestran list...:
+esumibisitere
+
+
+###words1, Proto-Hafestran list...:
+oshieru tame ni
+kutsushita
+rikai suru
+mewosemasu
+takeshido
+neru tame
+mortamour
+poitrine
+kangaeru
+shitagi
+agneau
+cheveu
+chival
+epaule
+mouton
+orange
+poulet
+vagina
+shatsu
+pantsu
+sukato
+dureso
+chatte
+taberu
+cochon
+blanc
+dinde
+jaune
+lapin
+rouge
+vache
+penis
+jambe
+genou
+chien
+bleu
+gris
+loup
+noir
+rose
+tete
+vert
+bras
+main
+pied
+miru
+cou
+
+
+
+###words2, Hafestran list...:
+osherutameni
+katusulita
+rikasure
+mewosemasu
+takesiro
+nerutame
+emorutamo
+poterine
+kangeru
+sitage
+aganu
+xeve
+xiveru
+eparu
+motone
+orenji
+eperute
+vagina
+satasu
+panitase
+sukato
+dureso
+cato
+taberu
+sfoxone
+berene
+erinire
+yeru
+erapine
+erudi
+vaxe
+epinise
+jamibe
+genu
+ciene
+beru
+egeruse
+erupe
+enere
+eriose
+tete
+evene
+berase
+mane
+ped
+mire
+cu
+
+
+
+###intraword1, Proto-Hafestran list...:
+
+
+
+###intraword2, Hafestran list...:
+
+
+
+###prefixes1, Proto-Hafestran list...:
+
+
+
+###prefixes2, Hafestran list...:
+
+
+
+###suffixes1, Proto-Hafestran list...:
+
+
+
+###suffixes2, Hafestran list...:
+
+
+
+###regex1, Proto-Hafestran list...:
+
+
+
+###regex2, Hafestran list...:
+
+
+
+###rev_regex1, Hafestran list...:
+
+
+
+###rev_regex2, Proto-Hafestran list...:
+
+
+
+###ordering1, Proto-Hafestran list...:
+
+
+
+###ordering2, Hafestran list...:
+
+
+
+###defaulttext, One random default text string per line...:
+
+
+
+###disable-reverse, :
+on
+
+
+###custom-script, Define your functions here...:
+
+
+
+###title-extra, e.g. '(and reverse translation)':
+
+
+
+###background-image-source, http://example.com/my_image.png:
+
+
+
+###title-font-name, Name of custom font...:
+
+
+
+###title-font-size, Size of title (default=5.5)...:
+
+
+
+###language1-font, Language1 font...:
+
+
+
+###language2-font, Language2 font...:
+
+
+
+###language1-font-size, Language1 font size (default=24)...:
+
+
+
+###language2-font-size, Language2 font size (default=24)...:

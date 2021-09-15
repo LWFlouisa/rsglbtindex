@@ -60,7 +60,7 @@ a {
 /*=============================*/
 
 .jumbotron {
-  background-image: url({{ site.url }}/images/header-bg.jpg);
+  background-image: url("https://raw.githubusercontent.com/LWFlouisa/RedSerpentPolitics/main/images/robosexuality2.jpeg")
   font-family: 'Fredoka One', cursive;
 }
 
